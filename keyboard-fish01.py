@@ -9,6 +9,7 @@ import time
 # kb.press_and_release("win + down")
 # kb.wait("esc")
 print("who the hell comment all this?")
+print("who the hell comment all this? 2")
 
 
 # rk = kb.record(until ='Esc') 
