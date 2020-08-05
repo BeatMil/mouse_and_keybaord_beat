@@ -8,6 +8,7 @@ import time
 # kb.write("beat is a developer.")
 # kb.press_and_release("win + down")
 # kb.wait("esc")
+print("who the hell comment all this?")
 
 
 # rk = kb.record(until ='Esc') 
